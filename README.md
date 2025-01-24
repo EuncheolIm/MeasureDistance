@@ -1,0 +1,2 @@
+# MeasureDistance
+refer to paper : "ON FAST COMPUTATION OF DISTANCE BETWEEN LINE SEGMENTS"
